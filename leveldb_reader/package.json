@@ -1,0 +1,12 @@
+{
+  "name": "leveldb_reader",
+  "version": "1.0.0",
+  "description": "A script to read values from LevelDB used by a Chrome extension",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "level": "^6.0.1"
+  }
+}
